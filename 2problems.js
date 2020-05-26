@@ -24,7 +24,7 @@ function prime_number(y){
     }
 }
 
-
+//prime number function part of code for prime position
 
 
 
