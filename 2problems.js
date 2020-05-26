@@ -4,10 +4,7 @@ function prime_position(x){
         if(prime_number(e)==true){
             a+=1;
         }
-        if(a==x && e<30){
-            return e;
-        }
-        if(a+1==x && e>30){
+        if(a==x){
             return e;
         }
     }
